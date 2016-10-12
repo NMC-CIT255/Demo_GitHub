@@ -14,9 +14,9 @@ namespace Demo_GitHub
             Console.WriteLine("Hello World!");
         }
 
-        static void Josiah ()
+        static void John()
         {
-            Console.WriteLine("Hi John!");
+            Console.WriteLine("Hello Josiah!");
         }
     }
 }
