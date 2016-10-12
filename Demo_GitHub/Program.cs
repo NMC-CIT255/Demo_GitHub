@@ -18,5 +18,10 @@ namespace Demo_GitHub
         {
             Console.WriteLine("Hello Josiah!");
         }
+
+        static void Josiah()
+        {
+            Console.WriteLine("Hellor Josiah!");
+        }
     }
 }
